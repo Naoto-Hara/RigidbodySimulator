@@ -10,3 +10,6 @@
 
 ![9,600](https://user-images.githubusercontent.com/91046559/178482576-caf33ad3-3f0e-4da8-b259-69f177600572.PNG)
 
+*シミュレーションのフローチャート*
+
+![flow](https://user-images.githubusercontent.com/91046559/178484627-1c26a098-3092-48af-9172-61e6044e9b51.PNG)
