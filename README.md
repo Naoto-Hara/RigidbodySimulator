@@ -2,4 +2,5 @@
 
 ![giphy](https://user-images.githubusercontent.com/91046559/178481165-cff246a7-e718-486d-8111-1b519c4ee518.gif)
 
-![9708](https://user-images.githubusercontent.com/91046559/178482193-44eccb5c-6a25-4eae-91e2-0589138ac796.PNG)
+![9,600](https://user-images.githubusercontent.com/91046559/178482576-caf33ad3-3f0e-4da8-b259-69f177600572.PNG)
+
