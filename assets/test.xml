@@ -3,6 +3,6 @@
   <penalty_impact_map kN = "17720.938760736626" gammaN = "46.1802" kT = "478465.3465398889" gammaT = "46.1802" mu = "0.5"/>
   <near_earth_gravity g = "0.0 -9.81"/>
   <resume folder = "Load" templates = "templates.cereal" objects = "objects.cereal"/> 
-  <serialization folder = "Save2" templates = "templates.cereal" objects = "objects.cereal"/>
+  <serialization folder = "Save" templates = "templates.cereal" objects = "objects.cereal"/>
   <auto_save interval = "0.0333333333333333" objects = "objects_%06d.cereal" />
 </rigidbody2d>
